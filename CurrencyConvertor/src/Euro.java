@@ -1,8 +1,5 @@
-/**
- * Class to store information about the Euro
- */
 public class Euro extends Currency {
-	public Euro() {
-	 super("Euro","EU",1.10);
- }
+    public Euro() {
+        super("Euro", "EUR", 1.10);
+    }
 }
