@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * Driver of the program
  */
-public class ConvertorApp {
+public class ConvertorApps {
     static Scanner sc = new Scanner(System.in);
 
     public static void main(String[] args) {
